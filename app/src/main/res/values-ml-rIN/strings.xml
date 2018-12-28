@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">വെറും ജാവ</string>
+    <string name="name">പേര്</string>
+    <string name="toppings">ചേർക്കുക</string>
+    <string name="whipping_cream">വിപ്പ്പിൻ ക്രീം</string>
+    <string name="choclate">ചോക്കലേറ്റ്</string>
+    <string name="quantity">അളവ്</string>
+    <string name="order">ഓർഡർ</string>
+    <string name="thank_you">നന്ദി</string>
+    <string name="total">ആകെ :</string>
+    <string name="subject">കോഫി ഓർഡർ</string>
+</resources>
